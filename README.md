@@ -9,7 +9,13 @@ to train your model using this file.
 will subscribe the term deposit.
 Given this information, your task is to predict if
 the client will subscribe to term deposit.
+
+
+
 solution checker -
+
+
+
 You can use solution_checker.xlsx to generate score (accuracy) of your
 predictions.
 This is an excel sheet where you are provided with the test IDs and you
